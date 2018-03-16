@@ -14,3 +14,7 @@ cmake .
 
 sudo ./CPlusPlus_Python
 </code>
+
+c : continue
+p : pause
+s : stop
